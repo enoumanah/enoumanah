@@ -30,7 +30,7 @@
 ---
 
 ### 📫 Let's Connect:
-- Twitter: [(@Eno1686050): https://x.com/Eno1686050?t=MEjDlUOMVe6sivK15ivGBA&s=08]
+- Twitter: [(@codewitheno): (https://x.com/codewitheno)]
 - LinkedIn: [linkedin.com/in/eno-umanah](https://www.linkedin.com/in/eno-umanah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Portfolio: Coming soon!
 
